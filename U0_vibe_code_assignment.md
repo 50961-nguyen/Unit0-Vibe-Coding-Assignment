@@ -221,6 +221,7 @@ You should have multiple commits that show your progress from start to finish.
 
 ## Submission Checklist
 Before submitting in CS++ Classroom, make sure you have:
+
 GITHUB: 
 - all html, css, and js files uploaded on GitHub
 - at least 3 meaningful commits
